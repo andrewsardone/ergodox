@@ -10,7 +10,7 @@ _Keyboard build compliments of [*@danseely*][ds]_
 _[Case][cs] and [PCB][pcb] by [Profet Keyboards][pk]_
 
 [ek]: https://www.ergodox.io/
-[wc]: http://configure.ergodox-ez.com/keyboard_layouts/qpjglb/edit
+[wc]: http://configure.ergodox-ez.com/keyboard_layouts/krjnnv/edit
 [ds]: https://github.com/danseely
 [cs]: http://shop.profetkeyboards.com/product/ergodox-case
 [pcb]: http://shop.profetkeyboards.com/product/ergodox-pcbs
